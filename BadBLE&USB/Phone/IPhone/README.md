@@ -1,1 +1,0 @@
-Warning: Certain files, especially the iPhone crashers, can trigger recovery mode on your device. Proceed at your own risk!
